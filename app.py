@@ -19,3 +19,4 @@ try:
 except Exception as e:
     print("❌ Bot crashed with error:", e)
     sys.exit(1)
+
